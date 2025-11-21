@@ -1,0 +1,11 @@
+[SCRIPT] Database connected.
+[SCRIPT] Using user: ashish (admin)
+[SCRIPT] Kunchinittu A Rate: 2000.00
+[SCRIPT] Kunchinittu B Rate: 0.00
+[SCRIPT] Stock A: 50 Quintals
+[SCRIPT] Kunchinittu A Rate After Purchase: 2000.00
+[SCRIPT] Performing Shifting A -> B...
+[SCRIPT] Performing Bulk Approval...
+[SCRIPT] Bulk Approval Result: {"approved":[27],"failed":[]}
+[SCRIPT] Final Kunchinittu B Rate: 0.00
+[SCRIPT] FAILURE: Rate did not transfer correctly (Expected ~2000, Got 0.00)
